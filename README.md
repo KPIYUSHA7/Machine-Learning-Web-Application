@@ -6,4 +6,6 @@ The Breast Cancer Dataset indicating the features and the target variable i.e., 
 To run this web application, type <streamlit run web_app_bc.py> in command prompt / terminal
 
 
-#### Ref Links : Coursera (Statistical Data Visualization with Seaborn) ; Chanin Nantasenamat Excellent Article on Medium (How to Build a Simple Machine Learning Web App in Python)
+#### Ref Links : 
+Coursera (Statistical Data Visualization with Seaborn) 
+Chanin Nantasenamat Excellent Article on Medium (How to Build a Simple Machine Learning Web App in Python)
